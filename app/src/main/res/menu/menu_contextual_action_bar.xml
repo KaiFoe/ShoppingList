@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cab_delete"
+        android:title="@string/cab_delete" />
+    <item
+        android:id="@+id/cab_change"
+        android:title="@string/cab_change" />
+</menu>
